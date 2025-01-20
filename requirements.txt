@@ -7,3 +7,7 @@ streamlit
 langchain_openai
 openai
 Ollama
+langchain-groq
+groq
+faiss-cpu
+Ollama
